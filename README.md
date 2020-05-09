@@ -21,7 +21,7 @@ design allows to have different layers of fabric.
 
 ![](https://raw.githubusercontent.com/Mianmo-project/logos/master/drawing-en.png)
 
-Mianmö project is an open source project to allow everyone to build and assemble cloth face mask. The project name is based on the Chinese word 面膜 which means facial mask and a minor IKEAization of the word.
+Mianmö project is an open source project to allow everyone to build and assemble cloth face masks. The project name is based on the Chinese word 面膜 which means facial mask and a minor IKEAization of the word.
 
 ## References
 
