@@ -17,6 +17,16 @@ design allows to have different layers of fabric.
 | 5 | 100% cotton | Cheap and accessible but less efficient than the above listed |
 | 10 | Silk | Not recommended (too thin at fiber level) but still better than nothing |
 
+### Selection of additional filters
+
+In some of the mask designs, an internal enclosure is available to add a complementary filter. Be careful about the materials of the filters which are often design for industrial filtering and not face mask filtering. Some might cause allergy or include some hazardous chemical components.
+
+|Filter type| Comments|
+|-----------|---------|
+|HEPA filters| Be careful on the MPR (microparticle performance rating) and MERV (minimum efficiency reporting value). 3000 MPR with multiple layers is satisfactory.|
+|Coffee filters| Alone the coffee filters are not sufficient (usually filtering around 25%) but complementary with other fabrics. Another aspect the ability to keep humidity away from the other fabrics.|
+|Felt|Felt has some good breathing capabilities but be careful to select the adequate one. Felt can be made out of synthetic fabrics or natural fabrics such as wool.|
+
 ## Mianmö project
 
 ![](https://raw.githubusercontent.com/Mianmo-project/logos/master/drawing-en.png)
