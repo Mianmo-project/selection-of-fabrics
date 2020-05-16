@@ -23,7 +23,7 @@ In some of the mask designs, an internal enclosure is available to add a complem
 
 |Filter type| Comments|
 |-----------|---------|
-|HEPA filters| Be careful on the MPR (microparticle performance rating) and MERV (minimum efficiency reporting value). 3000 MPR with multiple layers is satisfactory.|
+|HEPA filters| Be careful on the MPR (microparticle performance rating) and MERV (minimum efficiency reporting value). 3000 MPR with multiple layers is satisfactory. :warning: We do not recommend the use of HEPA filters which are often design for industrial usage only.|
 |Coffee filters| Alone the coffee filters are not sufficient (usually filtering around 25%) but complementary with other fabrics. Another aspect the ability to keep humidity away from the other fabrics.|
 |Felt|Felt has some good breathing capabilities but be careful to select the adequate one. Felt can be made out of synthetic fabrics or natural fabrics such as wool.|
 
