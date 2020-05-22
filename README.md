@@ -27,6 +27,16 @@ In some of the mask designs, an internal enclosure is available to add a complem
 |Coffee filters| Alone the coffee filters are not sufficient (usually filtering around 25%) but complementary with other fabrics. Another aspect the ability to keep humidity away from the other fabrics.|
 |Felt|Felt has some good breathing capabilities but be careful to select the adequate one. Felt can be made out of synthetic fabrics or natural fabrics such as wool.|
 
+### Norms
+
+There are different norms and standards for face masks. The norms are listed for references.
+
+|Norm|Comment|
+|----|-------|
+|BSEN14683-2019||
+|GB-19083-2010||
+|GB-T-32610-2016||
+
 ## Mianmö project
 
 ![](https://raw.githubusercontent.com/Mianmo-project/logos/master/drawing-en.png)
